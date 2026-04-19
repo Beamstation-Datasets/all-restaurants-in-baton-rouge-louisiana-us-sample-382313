@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6b416819-a924-4e88-a4e7-d1c5a69ae068",
+  "export_job_id": "f6022615-bb8c-40e8-8421-eae88fe10489",
   "id_short": 382313,
-  "published_at": "2026-04-11T19:50:02Z",
+  "published_at": "2026-04-19T07:59:58Z",
   "repo_name": "all-restaurants-in-baton-rouge-louisiana-us-sample-382313",
   "sample_asset_name": "beamstation_382313_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/382313/beamstation_382313_restaurants-us-la_SAMPLE_DIST.csv",
-  "sample_records": 129,
-  "sample_sha256": "710634abf46ae6b951c1484d32cfcb83a995d7fe836fc0c60473559a8f2fbc38",
-  "sample_size_bytes": 485854,
-  "total_records": 1296
+  "sample_records": 125,
+  "sample_sha256": "637ac9184251cb8f292c78ea8bb29821d3facecaa07d2007083cadb526058671",
+  "sample_size_bytes": 465312,
+  "total_records": 1253
 }
