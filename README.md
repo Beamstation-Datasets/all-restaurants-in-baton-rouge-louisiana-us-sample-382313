@@ -1,6 +1,6 @@
 # All Restaurants in Baton Rouge, Louisiana, US
 
-> Free BeamStation sample export with 129 rows and masked direct-contact fields.
+> Free BeamStation sample export with 125 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `382313` |
 | Location | Baton Rouge |
 | Category | Restaurants |
-| Full dataset size | 1,296 records |
-| Free sample size | 129 records (9.95%) |
-| Last export | 2026-04-09T11:48:59.500642+00:00 |
+| Full dataset size | 1,253 records |
+| Free sample size | 125 records (9.98%) |
+| Last export | 2026-04-16T11:48:05.680200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-baton-rouge-louisiana-us-sample-382313/releases/download/sample-latest/beamstation_382313_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
